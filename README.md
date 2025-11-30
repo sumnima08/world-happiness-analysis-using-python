@@ -68,5 +68,5 @@ The project contains several visualizations to highlight key insights:
 - Explore additional variables such as education, employment, and inequality metrics.
 - Deploy an interactive dashboard to visualize happiness factors globally.
 
-(https://github.com/sumnima08/world-happiness-analysis-using-python)
+[Github-python](https://github.com/sumnima08/world-happiness-analysis-using-python)
 
