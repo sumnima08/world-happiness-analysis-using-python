@@ -10,14 +10,14 @@ The goal of this project is to understand which factors most strongly influence 
 
 ## Dataset
 The dataset used in this analysis includes:
--Ladder score (happiness score)
--GDP per capita
--Social support
--Healthy life expectancy
--Freedom to make life choices
--Generosity
--Perceptions of corruption
--Source: World Happiness Report
+- Ladder score (happiness score)
+- GDP per capita
+- Social support
+- Healthy life expectancy
+- Freedom to make life choices
+- Generosity
+- Perceptions of corruption
+- Source: World Happiness Report
 
 ---
 
